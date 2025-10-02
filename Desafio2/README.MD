@@ -10,6 +10,10 @@ Os dados foram obtidos a partir de registros históricos dos Jogos Olímpicos (K
 - Evolução da presença feminina nos Jogos  
 - Modalidades esportivas e mudanças ao longo do tempo  
 
+As bases de dados podem ser encontradas aqui: 
+
+[bases](../Desafio2/Fontes%20de%20dados/)
+
 ## 📌 Estrutura do Dashboard  
 O dashboard foi organizado em páginas temáticas que permitem interatividade e exploração dos dados:  
 
@@ -89,5 +93,9 @@ Exibe também modalidades de demonstração (como arquitetura, música e até pe
 
 ## 🏁 Conclusão  
 O dashboard revela como os Jogos Olímpicos são um espelho da história mundial, refletindo guerras, crises e transformações sociais. Mais do que uma competição esportiva, eles representam a geopolítica, a evolução da igualdade de gênero e a ascensão de novas potências globais.  
+
+O Dashboard final em pdf pode ser acessado aqui:
+
+[dashpdf](../Desafio2/DesafioFase2Nivelamento.pdf)
 
 👉 [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/52e81daf-4cfe-49f8-b9ef-a8774fc08e1e)
