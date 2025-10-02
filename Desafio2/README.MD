@@ -96,6 +96,6 @@ O dashboard revela como os Jogos Olímpicos são um espelho da história mundial
 
 O Dashboard final em pdf pode ser acessado aqui:
 
-[dashpdf](../Desafio2/DesafioFase2Nivelamento.pdf)
+[dashpdf](../Desafio2/dashboard/As_olímpiadas_em_tempos_de_guerra.pdf)
 
 👉 [Acesse o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/52e81daf-4cfe-49f8-b9ef-a8774fc08e1e)
