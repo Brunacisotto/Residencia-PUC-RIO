@@ -27,7 +27,7 @@ Contextualizando, criamos uma linha do tempo para mostrar os quatro períodos qu
 Temos logo abaixo números consolidados: total de atletas , medalhas distribuídas, países participantes, esportes  e edições.  
 Inclui gráficos que mostram a evolução temporal de países, atletas e medalhas, bem como a participação feminina.  
 
-![dash2](..Desafio2/imagens/olimpiadas%20(2).png)
+![dash2](../Desafio2/imagens/olimpiadas%20(2).png)
 
 ![dash3](../Desafio2/imagens/olimpiadas%20(3).png)
 
