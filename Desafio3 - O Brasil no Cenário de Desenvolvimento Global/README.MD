@@ -126,6 +126,10 @@ Os datasets utilizados nesse projeto podem ser encontrados aqui:
 
 [datasets](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/datasets/)
 
+O sumário executivo desse projeto se encontra aqui:
+
+[sumário](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Sumário%20Executivo/sumario%20(1).pdf)
+
 O pdf do Dashboard completo pode ser encontrado aqui:
 
 [pdf](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Dashboard/Brasil_no_cenário_do_desenvolvimento_global%20(3).pdf)
