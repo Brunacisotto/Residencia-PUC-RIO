@@ -68,26 +68,47 @@ Este projeto foi desenvolvido colaborativamente pelas residentes Bruna Cisotto, 
 O dashboard está organizado em módulos temáticos:
 
 1. **Contexto Global**: Posicionamento do Brasil entre emergentes e desenvolvidos
+
 2. **Trajetória Econômica**: Evolução do PIB e PIB per capita (1990-2023)
+
 ![Indicadores](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(1).png)
+
 ![PIB](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(2).png)
+
 ![PIBperCapitaLongevidade](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(3).png)
+
 3. **Desenvolvimento Humano**: IDH, expectativa de vida, escolaridade
+
 ![IDH](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(4).png)
+
 ![perda por desigualdade](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(5).png)
+
 ![efi](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(6).png)
+
 4. **Comparação Regional**: Brasil versus América Latina
+
 5. **Desigualdade Social**: Análise do Gini e distribuição de renda
+
 ![Gini](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(7).png)
+
 ![regional](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(8).png)
+
 ![saneamento](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(9).png)
+
 6. **Sustentabilidade**: Emissões de CO₂, SDG Index, biodiversidade
+
 ![ods](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(10).png)
+
 ![ods2](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(11).png)
+
 ![ods3](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(12).png)
-7. **Bonus**: Comparação detalhada com o México 
+
+7. **Bonus**: Comparação detalhada com o México
+
 ![brasilXmexico](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(13).png)
+
 ![brasilXmexico](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(14).png)
+
 ![brasilXmexico](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Prints%20Dashboard/dash1%20(15).png)
 
 ## 🚀 Como Utilizar
