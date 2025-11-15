@@ -17,7 +17,7 @@ O objetivo central é fornecer uma visão multidimensional do desenvolvimento br
 A análise foi estruturada utilizando dados de fontes oficiais como Our World in Data, Heritage Foundation e Sustainable Development Report. O trabalho foi dividido em três pilares principais:
 
 **1. Análise Comparativa Global**
-- Comparação do Brasil com três grupos de referência: países emergentes (China, Índia, Rússia), economias desenvolvidas (Alemanha, Japão, Portugal) e América Latina (México, Argentina, Chile, Uruguai)
+- Comparação do Brasil com três grupos de referência: países emergentes (China, Índia, Rússia, Coreia do Sul, Africa do Sul), economias desenvolvidas (Alemanha, Japão, Portugal, Espanha, Estados Unidos) e América Latina (México, Argentina, Chile, Uruguai)
 - Análise temporal de indicadores-chave como PIB, IDH, Gini e emissões de CO₂
 
 **2. Visualização de Dados**
