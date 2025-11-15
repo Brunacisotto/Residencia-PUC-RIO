@@ -122,6 +122,13 @@ O dashboard está organizado em módulos temáticos:
 
 O Brasil é um país de contrastes: lidera em recursos naturais e tamanho econômico, mas enfrenta desafios estruturais de desigualdade que comprometem o desenvolvimento pleno. A análise evidencia que o país possui potencial para avançar significativamente, especialmente se adotar políticas públicas integradas focadas em educação, distribuição de renda e proteção ambiental, inspirando-se em casos de sucesso regionais como Chile e Uruguai.
 
+Os datasets utilizados nesse projeto podem ser encontrados aqui:
+
+[datasets](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/datasets/)
+
+O pdf do Dashboard completo pode ser encontrado aqui:
+
+[pdf](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Dashboard/Brasil_no_cenário_do_desenvolvimento_global%20(3).pdf)
 ---
 
 **Residência em Análise e Visualização de Dados | Instituto ECOA - PUC-Rio | 2025**
