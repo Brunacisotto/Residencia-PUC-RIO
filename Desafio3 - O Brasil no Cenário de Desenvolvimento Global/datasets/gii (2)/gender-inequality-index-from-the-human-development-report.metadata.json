@@ -1,0 +1,54 @@
+{
+  "chart": {
+    "title": "Gender Inequality Index",
+    "subtitle": "This index covers three dimensions: reproductive health, empowerment, and economic status. Scores are between 0-1 and higher values indicate higher inequalities.",
+    "citation": "UNDP, Human Development Report (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/gender-inequality-index-from-the-human-development-report?tab=line&country=USA~CHN~BRA~URY~CHL~JPN~PRT~ESP~MEX~KOR~ZAF~ARG~RUS~IND~DEU&overlay=download-data&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "Jordan",
+      "Indonesia",
+      "Germany",
+      "Sweden",
+      "Singapore",
+      "South Africa",
+      "United States",
+      "United Kingdom",
+      "Japan",
+      "Norway",
+      "Finland",
+      "Malaysia",
+      "Ghana"
+    ]
+  },
+  "columns": {
+    "Gender Inequality Index": {
+      "titleShort": "Gender Inequality Index",
+      "titleLong": "Gender Inequality Index",
+      "descriptionShort": "This index captures gender-based disadvantage in reproductive health, empowerment and the labour market; ranges from 0 (full equality) to 1 (maximum inequality), representing the share of potential human development lost because of gender gaps.",
+      "descriptionKey": [
+        "The Gender Inequality Index (GII) reflects gender-based disadvantage in three dimensions— reproductive health, empowerment and the labour market—for as many countries as data of reasonable quality allow. It shows the loss in potential human development due to inequality between female and male achievements in these dimensions.",
+        "It ranges from 0, where women and men fare equally, to 1, where one gender fares as poorly as possible in all measured dimensions.",
+        "The GII highlights how unequal opportunities for women and men translate into foregone national human‑development potential.",
+        "It combines five indicators: maternal mortality ratio, adolescent birth rate, women’s parliamentary seats, secondary‑education attainment, and labour‑force participation (all sex‑disaggregated).",
+        "Data is originally sourced from WHO/UNICEF/UNFPA/World Bank, UNDESA, IPU, UNESCO UIS, Barro-Lee, DHS/MICS and ILO datasets."
+      ],
+      "descriptionProcessing": "We calculated averages over continents and income groups by taking the population-weighted average of the countries in each group. If less than 80% of countries in an area report data for a given year, we do not calculate the average for that area.",
+      "unit": "",
+      "timespan": "1990-2023",
+      "type": "Numeric",
+      "owidVariableId": 1032418,
+      "shortName": "gii",
+      "lastUpdated": "2025-05-07",
+      "nextUpdate": "2026-05-07",
+      "citationShort": "UNDP, Human Development Report (2025) – with minor processing by Our World in Data",
+      "citationLong": "UNDP, Human Development Report (2025) – with minor processing by Our World in Data. “Gender Inequality Index – UNDP” [dataset]. UNDP, Human Development Report, “Human Development Report” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1032418.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-12",
+  "activeFilters": {
+    "country": "USA~CHN~BRA~URY~CHL~JPN~PRT~ESP~MEX~KOR~ZAF~ARG~RUS~IND~DEU",
+    "tab": "line",
+    "overlay": "download-data"
+  }
+}

@@ -1,0 +1,211 @@
+Entity,Code,Year,Human Development Index,World regions according to OWID,time
+Argentina,ARG,2010,0.844,South America,2023
+Argentina,ARG,2011,0.852,South America,2023
+Argentina,ARG,2012,0.85,South America,2023
+Argentina,ARG,2013,0.852,South America,2023
+Argentina,ARG,2014,0.855,South America,2023
+Argentina,ARG,2015,0.859,South America,2023
+Argentina,ARG,2016,0.857,South America,2023
+Argentina,ARG,2017,0.861,South America,2023
+Argentina,ARG,2018,0.861,South America,2023
+Argentina,ARG,2019,0.861,South America,2023
+Argentina,ARG,2020,0.851,South America,2023
+Argentina,ARG,2021,0.847,South America,2023
+Argentina,ARG,2022,0.858,South America,2023
+Argentina,ARG,2023,0.865,South America,2023
+Brazil,BRA,2010,0.748,South America,2023
+Brazil,BRA,2011,0.753,South America,2023
+Brazil,BRA,2012,0.758,South America,2023
+Brazil,BRA,2013,0.762,South America,2023
+Brazil,BRA,2014,0.765,South America,2023
+Brazil,BRA,2015,0.764,South America,2023
+Brazil,BRA,2016,0.765,South America,2023
+Brazil,BRA,2017,0.77,South America,2023
+Brazil,BRA,2018,0.774,South America,2023
+Brazil,BRA,2019,0.776,South America,2023
+Brazil,BRA,2020,0.77,South America,2023
+Brazil,BRA,2021,0.768,South America,2023
+Brazil,BRA,2022,0.78,South America,2023
+Brazil,BRA,2023,0.786,South America,2023
+Chile,CHL,2010,0.823,South America,2023
+Chile,CHL,2011,0.823,South America,2023
+Chile,CHL,2012,0.832,South America,2023
+Chile,CHL,2013,0.845,South America,2023
+Chile,CHL,2014,0.849,South America,2023
+Chile,CHL,2015,0.855,South America,2023
+Chile,CHL,2016,0.859,South America,2023
+Chile,CHL,2017,0.862,South America,2023
+Chile,CHL,2018,0.866,South America,2023
+Chile,CHL,2019,0.867,South America,2023
+Chile,CHL,2020,0.856,South America,2023
+Chile,CHL,2021,0.865,South America,2023
+Chile,CHL,2022,0.869,South America,2023
+Chile,CHL,2023,0.878,South America,2023
+China,CHN,2010,0.71,Asia,2023
+China,CHN,2011,0.717,Asia,2023
+China,CHN,2012,0.725,Asia,2023
+China,CHN,2013,0.733,Asia,2023
+China,CHN,2014,0.742,Asia,2023
+China,CHN,2015,0.75,Asia,2023
+China,CHN,2016,0.758,Asia,2023
+China,CHN,2017,0.765,Asia,2023
+China,CHN,2018,0.774,Asia,2023
+China,CHN,2019,0.781,Asia,2023
+China,CHN,2020,0.786,Asia,2023
+China,CHN,2021,0.794,Asia,2023
+China,CHN,2022,0.796,Asia,2023
+China,CHN,2023,0.797,Asia,2023
+Germany,DEU,2010,0.936,Europe,2023
+Germany,DEU,2011,0.942,Europe,2023
+Germany,DEU,2012,0.944,Europe,2023
+Germany,DEU,2013,0.945,Europe,2023
+Germany,DEU,2014,0.949,Europe,2023
+Germany,DEU,2015,0.948,Europe,2023
+Germany,DEU,2016,0.949,Europe,2023
+Germany,DEU,2017,0.951,Europe,2023
+Germany,DEU,2018,0.952,Europe,2023
+Germany,DEU,2019,0.957,Europe,2023
+Germany,DEU,2020,0.955,Europe,2023
+Germany,DEU,2021,0.958,Europe,2023
+Germany,DEU,2022,0.955,Europe,2023
+Germany,DEU,2023,0.959,Europe,2023
+India,IND,2010,0.59,Asia,2023
+India,IND,2011,0.603,Asia,2023
+India,IND,2012,0.609,Asia,2023
+India,IND,2013,0.615,Asia,2023
+India,IND,2014,0.625,Asia,2023
+India,IND,2015,0.633,Asia,2023
+India,IND,2016,0.644,Asia,2023
+India,IND,2017,0.649,Asia,2023
+India,IND,2018,0.648,Asia,2023
+India,IND,2019,0.651,Asia,2023
+India,IND,2020,0.652,Asia,2023
+India,IND,2021,0.647,Asia,2023
+India,IND,2022,0.676,Asia,2023
+India,IND,2023,0.685,Asia,2023
+Japan,JPN,2010,0.907,Asia,2023
+Japan,JPN,2011,0.906,Asia,2023
+Japan,JPN,2012,0.909,Asia,2023
+Japan,JPN,2013,0.912,Asia,2023
+Japan,JPN,2014,0.914,Asia,2023
+Japan,JPN,2015,0.917,Asia,2023
+Japan,JPN,2016,0.918,Asia,2023
+Japan,JPN,2017,0.92,Asia,2023
+Japan,JPN,2018,0.921,Asia,2023
+Japan,JPN,2019,0.922,Asia,2023
+Japan,JPN,2020,0.922,Asia,2023
+Japan,JPN,2021,0.922,Asia,2023
+Japan,JPN,2022,0.921,Asia,2023
+Japan,JPN,2023,0.925,Asia,2023
+Mexico,MEX,2010,0.751,North America,2023
+Mexico,MEX,2011,0.757,North America,2023
+Mexico,MEX,2012,0.764,North America,2023
+Mexico,MEX,2013,0.765,North America,2023
+Mexico,MEX,2014,0.769,North America,2023
+Mexico,MEX,2015,0.773,North America,2023
+Mexico,MEX,2016,0.778,North America,2023
+Mexico,MEX,2017,0.781,North America,2023
+Mexico,MEX,2018,0.785,North America,2023
+Mexico,MEX,2019,0.788,North America,2023
+Mexico,MEX,2020,0.763,North America,2023
+Mexico,MEX,2021,0.761,North America,2023
+Mexico,MEX,2022,0.783,North America,2023
+Mexico,MEX,2023,0.789,North America,2023
+Portugal,PRT,2010,0.836,Europe,2023
+Portugal,PRT,2011,0.843,Europe,2023
+Portugal,PRT,2012,0.844,Europe,2023
+Portugal,PRT,2013,0.849,Europe,2023
+Portugal,PRT,2014,0.854,Europe,2023
+Portugal,PRT,2015,0.857,Europe,2023
+Portugal,PRT,2016,0.859,Europe,2023
+Portugal,PRT,2017,0.864,Europe,2023
+Portugal,PRT,2018,0.866,Europe,2023
+Portugal,PRT,2019,0.872,Europe,2023
+Portugal,PRT,2020,0.87,Europe,2023
+Portugal,PRT,2021,0.876,Europe,2023
+Portugal,PRT,2022,0.883,Europe,2023
+Portugal,PRT,2023,0.89,Europe,2023
+Russia,RUS,2010,0.808,Europe,2023
+Russia,RUS,2011,0.822,Europe,2023
+Russia,RUS,2012,0.825,Europe,2023
+Russia,RUS,2013,0.83,Europe,2023
+Russia,RUS,2014,0.831,Europe,2023
+Russia,RUS,2015,0.833,Europe,2023
+Russia,RUS,2016,0.835,Europe,2023
+Russia,RUS,2017,0.838,Europe,2023
+Russia,RUS,2018,0.845,Europe,2023
+Russia,RUS,2019,0.847,Europe,2023
+Russia,RUS,2020,0.818,Europe,2023
+Russia,RUS,2021,0.813,Europe,2023
+Russia,RUS,2022,0.826,Europe,2023
+Russia,RUS,2023,0.832,Europe,2023
+South Africa,ZAF,2010,0.669,Africa,2023
+South Africa,ZAF,2011,0.683,Africa,2023
+South Africa,ZAF,2012,0.696,Africa,2023
+South Africa,ZAF,2013,0.705,Africa,2023
+South Africa,ZAF,2014,0.713,Africa,2023
+South Africa,ZAF,2015,0.722,Africa,2023
+South Africa,ZAF,2016,0.722,Africa,2023
+South Africa,ZAF,2017,0.726,Africa,2023
+South Africa,ZAF,2018,0.732,Africa,2023
+South Africa,ZAF,2019,0.742,Africa,2023
+South Africa,ZAF,2020,0.724,Africa,2023
+South Africa,ZAF,2021,0.721,Africa,2023
+South Africa,ZAF,2022,0.737,Africa,2023
+South Africa,ZAF,2023,0.741,Africa,2023
+South Korea,KOR,2010,0.894,Asia,2023
+South Korea,KOR,2011,0.899,Asia,2023
+South Korea,KOR,2012,0.901,Asia,2023
+South Korea,KOR,2013,0.905,Asia,2023
+South Korea,KOR,2014,0.91,Asia,2023
+South Korea,KOR,2015,0.914,Asia,2023
+South Korea,KOR,2016,0.918,Asia,2023
+South Korea,KOR,2017,0.922,Asia,2023
+South Korea,KOR,2018,0.924,Asia,2023
+South Korea,KOR,2019,0.927,Asia,2023
+South Korea,KOR,2020,0.928,Asia,2023
+South Korea,KOR,2021,0.933,Asia,2023
+South Korea,KOR,2022,0.928,Asia,2023
+South Korea,KOR,2023,0.937,Asia,2023
+Spain,ESP,2010,0.875,Europe,2023
+Spain,ESP,2011,0.879,Europe,2023
+Spain,ESP,2012,0.881,Europe,2023
+Spain,ESP,2013,0.886,Europe,2023
+Spain,ESP,2014,0.89,Europe,2023
+Spain,ESP,2015,0.895,Europe,2023
+Spain,ESP,2016,0.9,Europe,2023
+Spain,ESP,2017,0.902,Europe,2023
+Spain,ESP,2018,0.905,Europe,2023
+Spain,ESP,2019,0.91,Europe,2023
+Spain,ESP,2020,0.901,Europe,2023
+Spain,ESP,2021,0.912,Europe,2023
+Spain,ESP,2022,0.911,Europe,2023
+Spain,ESP,2023,0.918,Europe,2023
+United States,USA,2010,0.919,North America,2023
+United States,USA,2011,0.92,North America,2023
+United States,USA,2012,0.923,North America,2023
+United States,USA,2013,0.925,North America,2023
+United States,USA,2014,0.926,North America,2023
+United States,USA,2015,0.928,North America,2023
+United States,USA,2016,0.929,North America,2023
+United States,USA,2017,0.931,North America,2023
+United States,USA,2018,0.934,North America,2023
+United States,USA,2019,0.936,North America,2023
+United States,USA,2020,0.925,North America,2023
+United States,USA,2021,0.921,North America,2023
+United States,USA,2022,0.93,North America,2023
+United States,USA,2023,0.938,North America,2023
+Uruguay,URY,2010,0.796,South America,2023
+Uruguay,URY,2011,0.801,South America,2023
+Uruguay,URY,2012,0.804,South America,2023
+Uruguay,URY,2013,0.812,South America,2023
+Uruguay,URY,2014,0.816,South America,2023
+Uruguay,URY,2015,0.818,South America,2023
+Uruguay,URY,2016,0.821,South America,2023
+Uruguay,URY,2017,0.827,South America,2023
+Uruguay,URY,2018,0.826,South America,2023
+Uruguay,URY,2019,0.83,South America,2023
+Uruguay,URY,2020,0.837,South America,2023
+Uruguay,URY,2021,0.837,South America,2023
+Uruguay,URY,2022,0.852,South America,2023
+Uruguay,URY,2023,0.862,South America,2023

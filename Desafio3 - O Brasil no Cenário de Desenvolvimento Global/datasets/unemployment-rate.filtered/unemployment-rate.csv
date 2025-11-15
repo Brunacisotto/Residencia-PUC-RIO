@@ -1,0 +1,430 @@
+Entity,Code,Year,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+Argentina,ARG,1991,5.44
+Argentina,ARG,1992,6.36
+Argentina,ARG,1993,10.1
+Argentina,ARG,1994,11.76
+Argentina,ARG,1995,18.8
+Argentina,ARG,1996,17.11
+Argentina,ARG,1997,14.82
+Argentina,ARG,1998,12.65
+Argentina,ARG,1999,14.05
+Argentina,ARG,2000,15
+Argentina,ARG,2001,17.32
+Argentina,ARG,2002,19.59
+Argentina,ARG,2003,15.36
+Argentina,ARG,2004,13.522
+Argentina,ARG,2005,11.506
+Argentina,ARG,2006,10.078
+Argentina,ARG,2007,8.47
+Argentina,ARG,2008,7.837
+Argentina,ARG,2009,8.645
+Argentina,ARG,2010,7.714
+Argentina,ARG,2011,7.18
+Argentina,ARG,2012,7.217
+Argentina,ARG,2013,7.1
+Argentina,ARG,2014,7.268
+Argentina,ARG,2015,7.58
+Argentina,ARG,2016,8.083
+Argentina,ARG,2017,8.347
+Argentina,ARG,2018,9.221
+Argentina,ARG,2019,9.843
+Argentina,ARG,2020,11.461
+Argentina,ARG,2021,8.736
+Argentina,ARG,2022,6.805
+Argentina,ARG,2023,6.178
+Brazil,BRA,1991,6.896
+Brazil,BRA,1992,7.086
+Brazil,BRA,1993,6.03
+Brazil,BRA,1994,6.578
+Brazil,BRA,1995,7.092
+Brazil,BRA,1996,8.035
+Brazil,BRA,1997,9.003
+Brazil,BRA,1998,10.15
+Brazil,BRA,1999,11.125
+Brazil,BRA,2000,10.892
+Brazil,BRA,2001,10.649
+Brazil,BRA,2002,10.641
+Brazil,BRA,2003,11.169
+Brazil,BRA,2004,10.072
+Brazil,BRA,2005,10.551
+Brazil,BRA,2006,9.692
+Brazil,BRA,2007,9.28
+Brazil,BRA,2008,8.268
+Brazil,BRA,2009,9.419
+Brazil,BRA,2010,8.424
+Brazil,BRA,2011,7.578
+Brazil,BRA,2012,7.251
+Brazil,BRA,2013,7.071
+Brazil,BRA,2014,6.755
+Brazil,BRA,2015,8.538
+Brazil,BRA,2016,11.58
+Brazil,BRA,2017,12.792
+Brazil,BRA,2018,12.33
+Brazil,BRA,2019,11.936
+Brazil,BRA,2020,13.697
+Brazil,BRA,2021,13.159
+Brazil,BRA,2022,9.231
+Brazil,BRA,2023,7.95
+Chile,CHL,1991,5.23
+Chile,CHL,1992,4.35
+Chile,CHL,1993,4.49
+Chile,CHL,1994,5.87
+Chile,CHL,1995,4.7
+Chile,CHL,1996,7.414
+Chile,CHL,1997,7.136
+Chile,CHL,1998,7.307
+Chile,CHL,1999,11.158
+Chile,CHL,2000,10.491
+Chile,CHL,2001,10.39
+Chile,CHL,2002,10.168
+Chile,CHL,2003,9.765
+Chile,CHL,2004,10.162
+Chile,CHL,2005,9.34
+Chile,CHL,2006,9.024
+Chile,CHL,2007,8.427
+Chile,CHL,2008,9.285
+Chile,CHL,2009,11.313
+Chile,CHL,2010,8.547
+Chile,CHL,2011,7.492
+Chile,CHL,2012,6.79
+Chile,CHL,2013,6.361
+Chile,CHL,2014,6.761
+Chile,CHL,2015,6.605
+Chile,CHL,2016,6.926
+Chile,CHL,2017,7.29
+Chile,CHL,2018,7.647
+Chile,CHL,2019,7.533
+Chile,CHL,2020,11.006
+Chile,CHL,2021,9.325
+Chile,CHL,2022,8.299
+Chile,CHL,2023,9.037
+China,CHN,1991,2.37
+China,CHN,1992,2.37
+China,CHN,1993,2.69
+China,CHN,1994,2.9
+China,CHN,1995,3
+China,CHN,1996,3.12
+China,CHN,1997,3.23
+China,CHN,1998,3.24
+China,CHN,1999,3.25
+China,CHN,2000,3.26
+China,CHN,2001,3.8
+China,CHN,2002,4.24
+China,CHN,2003,4.58
+China,CHN,2004,4.49
+China,CHN,2005,4.52
+China,CHN,2006,4.43
+China,CHN,2007,4.35
+China,CHN,2008,4.59
+China,CHN,2009,4.72
+China,CHN,2010,4.53
+China,CHN,2011,4.55
+China,CHN,2012,4.58
+China,CHN,2013,4.6
+China,CHN,2014,4.63
+China,CHN,2015,4.65
+China,CHN,2016,4.56
+China,CHN,2017,4.47
+China,CHN,2018,4.31
+China,CHN,2019,4.56
+China,CHN,2020,5
+China,CHN,2021,4.55
+China,CHN,2022,4.98
+China,CHN,2023,4.67
+Japan,JPN,1991,2.059
+Japan,JPN,1992,2.158
+Japan,JPN,1993,2.539
+Japan,JPN,1994,2.89
+Japan,JPN,1995,3.15
+Japan,JPN,1996,3.383
+Japan,JPN,1997,3.374
+Japan,JPN,1998,4.078
+Japan,JPN,1999,4.677
+Japan,JPN,2000,4.748
+Japan,JPN,2001,5.02
+Japan,JPN,2002,5.386
+Japan,JPN,2003,5.251
+Japan,JPN,2004,4.734
+Japan,JPN,2005,4.446
+Japan,JPN,2006,4.192
+Japan,JPN,2007,3.888
+Japan,JPN,2008,4.002
+Japan,JPN,2009,5.068
+Japan,JPN,2010,5.103
+Japan,JPN,2011,4.55
+Japan,JPN,2012,4.358
+Japan,JPN,2013,4.038
+Japan,JPN,2014,3.589
+Japan,JPN,2015,3.385
+Japan,JPN,2016,3.132
+Japan,JPN,2017,2.822
+Japan,JPN,2018,2.467
+Japan,JPN,2019,2.351
+Japan,JPN,2020,2.809
+Japan,JPN,2021,2.828
+Japan,JPN,2022,2.6
+Japan,JPN,2023,2.575
+Mexico,MEX,1991,3.145
+Mexico,MEX,1992,3.235
+Mexico,MEX,1993,3.365
+Mexico,MEX,1994,4.436
+Mexico,MEX,1995,7.095
+Mexico,MEX,1996,5.465
+Mexico,MEX,1997,4.235
+Mexico,MEX,1998,3.733
+Mexico,MEX,1999,2.598
+Mexico,MEX,2000,2.646
+Mexico,MEX,2001,2.627
+Mexico,MEX,2002,3.003
+Mexico,MEX,2003,3.455
+Mexico,MEX,2004,3.937
+Mexico,MEX,2005,3.558
+Mexico,MEX,2006,3.566
+Mexico,MEX,2007,3.628
+Mexico,MEX,2008,3.874
+Mexico,MEX,2009,5.356
+Mexico,MEX,2010,5.303
+Mexico,MEX,2011,5.175
+Mexico,MEX,2012,4.892
+Mexico,MEX,2013,4.921
+Mexico,MEX,2014,4.819
+Mexico,MEX,2015,4.311
+Mexico,MEX,2016,3.853
+Mexico,MEX,2017,3.419
+Mexico,MEX,2018,3.275
+Mexico,MEX,2019,3.477
+Mexico,MEX,2020,4.441
+Mexico,MEX,2021,4.019
+Mexico,MEX,2022,3.256
+Mexico,MEX,2023,2.812
+Portugal,PRT,1991,3.919
+Portugal,PRT,1992,3.985
+Portugal,PRT,1993,5.301
+Portugal,PRT,1994,6.709
+Portugal,PRT,1995,7.064
+Portugal,PRT,1996,7.298
+Portugal,PRT,1997,6.571
+Portugal,PRT,1998,4.64
+Portugal,PRT,1999,4.579
+Portugal,PRT,2000,3.806
+Portugal,PRT,2001,3.829
+Portugal,PRT,2002,4.497
+Portugal,PRT,2003,6.132
+Portugal,PRT,2004,6.319
+Portugal,PRT,2005,7.582
+Portugal,PRT,2006,7.649
+Portugal,PRT,2007,7.966
+Portugal,PRT,2008,7.553
+Portugal,PRT,2009,9.432
+Portugal,PRT,2010,10.771
+Portugal,PRT,2011,12.682
+Portugal,PRT,2012,15.531
+Portugal,PRT,2013,16.188
+Portugal,PRT,2014,13.897
+Portugal,PRT,2015,12.447
+Portugal,PRT,2016,11.068
+Portugal,PRT,2017,8.869
+Portugal,PRT,2018,6.994
+Portugal,PRT,2019,6.464
+Portugal,PRT,2020,6.796
+Portugal,PRT,2021,6.577
+Portugal,PRT,2022,6.011
+Portugal,PRT,2023,6.491
+Russia,RUS,1991,5.133
+Russia,RUS,1992,5.181
+Russia,RUS,1993,5.883
+Russia,RUS,1994,8.131
+Russia,RUS,1995,9.449
+Russia,RUS,1996,9.665
+Russia,RUS,1997,11.813
+Russia,RUS,1998,13.261
+Russia,RUS,1999,13.036
+Russia,RUS,2000,10.581
+Russia,RUS,2001,8.978
+Russia,RUS,2002,7.875
+Russia,RUS,2003,8.21
+Russia,RUS,2004,7.763
+Russia,RUS,2005,7.124
+Russia,RUS,2006,7.055
+Russia,RUS,2007,6.002
+Russia,RUS,2008,6.205
+Russia,RUS,2009,8.301
+Russia,RUS,2010,7.369
+Russia,RUS,2011,6.536
+Russia,RUS,2012,5.436
+Russia,RUS,2013,5.458
+Russia,RUS,2014,5.16
+Russia,RUS,2015,5.571
+Russia,RUS,2016,5.559
+Russia,RUS,2017,5.212
+Russia,RUS,2018,4.846
+Russia,RUS,2019,4.496
+Russia,RUS,2020,5.589
+Russia,RUS,2021,4.715
+Russia,RUS,2022,3.867
+Russia,RUS,2023,3.325
+South Africa,ZAF,1991,20.105
+South Africa,ZAF,1992,20.369
+South Africa,ZAF,1993,20.295
+South Africa,ZAF,1994,20.073
+South Africa,ZAF,1995,19.799
+South Africa,ZAF,1996,19.643
+South Africa,ZAF,1997,19.679
+South Africa,ZAF,1998,19.821
+South Africa,ZAF,1999,19.926
+South Africa,ZAF,2000,19.841
+South Africa,ZAF,2001,19.725
+South Africa,ZAF,2002,19.658
+South Africa,ZAF,2003,19.728
+South Africa,ZAF,2004,19.634
+South Africa,ZAF,2005,19.557
+South Africa,ZAF,2006,19.425
+South Africa,ZAF,2007,19.39
+South Africa,ZAF,2008,19.507
+South Africa,ZAF,2009,20.512
+South Africa,ZAF,2010,23.181
+South Africa,ZAF,2011,21.416
+South Africa,ZAF,2012,21.786
+South Africa,ZAF,2013,22.038
+South Africa,ZAF,2014,22.606
+South Africa,ZAF,2015,22.869
+South Africa,ZAF,2016,24.023
+South Africa,ZAF,2017,23.992
+South Africa,ZAF,2018,24.218
+South Africa,ZAF,2019,25.538
+South Africa,ZAF,2020,24.339
+South Africa,ZAF,2021,28.77
+South Africa,ZAF,2022,28.838
+South Africa,ZAF,2023,27.988
+South Korea,KOR,1991,2.407
+South Korea,KOR,1992,2.513
+South Korea,KOR,1993,2.878
+South Korea,KOR,1994,2.476
+South Korea,KOR,1995,2.063
+South Korea,KOR,1996,2.048
+South Korea,KOR,1997,2.608
+South Korea,KOR,1998,6.963
+South Korea,KOR,1999,6.342
+South Korea,KOR,2000,4.063
+South Korea,KOR,2001,3.699
+South Korea,KOR,2002,3.046
+South Korea,KOR,2003,3.348
+South Korea,KOR,2004,3.42
+South Korea,KOR,2005,3.482
+South Korea,KOR,2006,3.254
+South Korea,KOR,2007,3.013
+South Korea,KOR,2008,2.959
+South Korea,KOR,2009,3.363
+South Korea,KOR,2010,3.324
+South Korea,KOR,2011,2.992
+South Korea,KOR,2012,2.812
+South Korea,KOR,2013,2.747
+South Korea,KOR,2014,3.082
+South Korea,KOR,2015,3.546
+South Korea,KOR,2016,3.65
+South Korea,KOR,2017,3.653
+South Korea,KOR,2018,3.824
+South Korea,KOR,2019,3.746
+South Korea,KOR,2020,3.931
+South Korea,KOR,2021,3.639
+South Korea,KOR,2022,2.857
+South Korea,KOR,2023,2.642
+Spain,ESP,1991,15.929
+Spain,ESP,1992,17.697
+Spain,ESP,1993,22.156
+Spain,ESP,1994,24.209
+Spain,ESP,1995,22.675
+Spain,ESP,1996,22.142
+Spain,ESP,1997,20.698
+Spain,ESP,1998,18.673
+Spain,ESP,1999,15.475
+Spain,ESP,2000,13.785
+Spain,ESP,2001,10.348
+Spain,ESP,2002,11.146
+Spain,ESP,2003,11.283
+Spain,ESP,2004,11.09
+Spain,ESP,2005,9.146
+Spain,ESP,2006,8.452
+Spain,ESP,2007,8.232
+Spain,ESP,2008,11.255
+Spain,ESP,2009,17.857
+Spain,ESP,2010,19.86
+Spain,ESP,2011,21.391
+Spain,ESP,2012,24.788
+Spain,ESP,2013,26.094
+Spain,ESP,2014,24.442
+Spain,ESP,2015,22.058
+Spain,ESP,2016,19.635
+Spain,ESP,2017,17.224
+Spain,ESP,2018,15.255
+Spain,ESP,2019,14.104
+Spain,ESP,2020,15.532
+Spain,ESP,2021,14.781
+Spain,ESP,2022,12.917
+Spain,ESP,2023,12.144
+United States,USA,1991,6.8
+United States,USA,1992,7.5
+United States,USA,1993,6.9
+United States,USA,1994,6.119
+United States,USA,1995,5.65
+United States,USA,1996,5.451
+United States,USA,1997,5
+United States,USA,1998,4.511
+United States,USA,1999,4.219
+United States,USA,2000,3.992
+United States,USA,2001,4.731
+United States,USA,2002,5.783
+United States,USA,2003,5.989
+United States,USA,2004,5.529
+United States,USA,2005,5.084
+United States,USA,2006,4.623
+United States,USA,2007,4.622
+United States,USA,2008,5.784
+United States,USA,2009,9.254
+United States,USA,2010,9.633
+United States,USA,2011,8.949
+United States,USA,2012,8.069
+United States,USA,2013,7.375
+United States,USA,2014,6.168
+United States,USA,2015,5.28
+United States,USA,2016,4.869
+United States,USA,2017,4.355
+United States,USA,2018,3.896
+United States,USA,2019,3.669
+United States,USA,2020,8.055
+United States,USA,2021,5.349
+United States,USA,2022,3.65
+United States,USA,2023,3.625
+Uruguay,URY,1991,8.95
+Uruguay,URY,1992,8.96
+Uruguay,URY,1993,8.35
+Uruguay,URY,1994,9.04
+Uruguay,URY,1995,10.02
+Uruguay,URY,1996,11.93
+Uruguay,URY,1997,11.44
+Uruguay,URY,1998,9.362
+Uruguay,URY,1999,10.466
+Uruguay,URY,2000,12.627
+Uruguay,URY,2001,15.052
+Uruguay,URY,2002,16.648
+Uruguay,URY,2003,16.661
+Uruguay,URY,2004,12.98
+Uruguay,URY,2005,12.009
+Uruguay,URY,2006,10.844
+Uruguay,URY,2007,9.403
+Uruguay,URY,2008,8.026
+Uruguay,URY,2009,7.74
+Uruguay,URY,2010,7.158
+Uruguay,URY,2011,6.307
+Uruguay,URY,2012,6.451
+Uruguay,URY,2013,6.444
+Uruguay,URY,2014,6.547
+Uruguay,URY,2015,7.488
+Uruguay,URY,2016,7.841
+Uruguay,URY,2017,7.89
+Uruguay,URY,2018,8.336
+Uruguay,URY,2019,8.734
+Uruguay,URY,2020,10.33
+Uruguay,URY,2021,9.301
+Uruguay,URY,2022,7.877
+Uruguay,URY,2023,8.354

@@ -1,0 +1,41 @@
+{
+  "chart": {
+    "title": "Share of the population using at least basic sanitation services",
+    "subtitle": "Basic sanitation services are defined as [improved sanitation](#dod:improved-sanitation) facilities not shared with other households.",
+    "citation": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities?tab=table&time=2022&country=BRA~CHL~ARG~URY~DEU~USA~IND~ZAF~RUS~MEX~KOR~PRT~ESP~JPN&mapSelect=BRA~CHL~ARG~URY~DEU~USA~IND~ZAF~RUS~MEX~KOR~PRT~ESP~JPN&overlay=download-data&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "World",
+      "Low-income countries",
+      "High-income countries",
+      "Lower-middle-income countries",
+      "Upper-middle-income countries"
+    ]
+  },
+  "columns": {
+    "Share of the population using at least basic sanitation services, improved sanitation facilities which are not shared": {
+      "titleShort": "Share of the population using at least basic sanitation services, improved sanitation facilities which are not shared",
+      "titleLong": "Share of the population using at least basic sanitation services, improved sanitation facilities which are not shared",
+      "descriptionShort": "Basic sanitation services are defined as improved sanitation facilities that are not shared with other households.\n",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2000-2022",
+      "type": "Numeric",
+      "owidVariableId": 820175,
+      "shortName": "san_basal__residence_total",
+      "lastUpdated": "2024-01-06",
+      "nextUpdate": "2026-01-05",
+      "citationShort": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024) – with major processing by Our World in Data",
+      "citationLong": "WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP) (2024) – with major processing by Our World in Data. “Share of the population using at least basic sanitation services, improved sanitation facilities which are not shared” [dataset]. WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP), “WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and  Hygiene (JMP) - Households”; WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP), “WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and  Hygiene (JMP) - Households - Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/820175.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-09-11",
+  "activeFilters": {
+    "country": "BRA~CHL~ARG~URY~DEU~USA~IND~ZAF~RUS~MEX~KOR~PRT~ESP~JPN",
+    "tab": "table",
+    "overlay": "download-data",
+    "time": "2022",
+    "mapSelect": "BRA~CHL~ARG~URY~DEU~USA~IND~ZAF~RUS~MEX~KOR~PRT~ESP~JPN"
+  }
+}
