@@ -132,7 +132,7 @@ O sumário executivo desse projeto se encontra aqui:
 
 O pdf do Dashboard completo pode ser encontrado aqui:
 
-[pdf](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Dashboard/Brasil_no_cenário_do_desenvolvimento_global%20(3).pdf)
+[pdf](../Desafio3%20-%20O%20Brasil%20no%20Cenário%20de%20Desenvolvimento%20Global/Dashboard/)
 ---
 
 **Residência em Análise e Visualização de Dados | Instituto ECOA - PUC-Rio | 2025**
